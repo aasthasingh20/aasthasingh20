@@ -15,7 +15,6 @@ HIII I'M AASTHA✨
 
 📊 Developed a Resume Parser tool with NLP, showcasing practical use of AI in recruitment
 
-🧠 Working on VANET secure routing simulation using NS-2/NS-3 with cryptographic techniques
 
 🔧 Experienced in building full-stack apps, collaborative platforms, and real-time systems
 

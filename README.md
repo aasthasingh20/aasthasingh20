@@ -11,10 +11,7 @@ HIII I'M AASTHA✨
 
 🛡️ Strong foundation in Cybersecurity concepts and Data Structures & Algorithms
 
-🤖 Built projects using MediaPipe, WebRTC, Three.js, and AI-based posture evaluation tools
-
 📊 Developed a Resume Parser tool with NLP, showcasing practical use of AI in recruitment
-
 
 🔧 Experienced in building full-stack apps, collaborative platforms, and real-time systems
 

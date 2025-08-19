@@ -5,7 +5,7 @@ HIII I'M AASTHA✨
 
 🎓 Final-year Computer Science student at Dr. A.P.J. Abdul Kalam Technical University
 
-💻 Passionate about Web Development, Cybersecurity, and AI
+💻 Passionate about  Full Stack Development, Project Management, and AI
 
 ⚙️ Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js), JavaScript, HTML/CSS
 

@@ -1,4 +1,4 @@
-# AASTHA certifications link - https://drive.google.com/drive/folders/1sKfkCG5vCBfxiStxB7fH248jnTZwGM_0
+# AASTHA
 HIII I'M AASTHA✨
 
 🔹 About Me

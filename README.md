@@ -1,9 +1,14 @@
 # AASTHA
 HIII I'M AASTHA✨
+
 🎓 Final-year Computer Science student at Dr. A.P.J. Abdul Kalam Technical University
+
 💻 Passionate about  Full Stack Development, Project Management, and AI
+
 ⚙️ Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js), JavaScript, HTML/CSS, Typescript
+
 🔧 Experienced in building full-stack apps with integrated AI , collaborative platforms, and real-time systems
+
 🤝 Strong team player, self-learner, and passionate about solving real-world problems with tech
 
 📧 aasthabhriguvanshi@gmail.com

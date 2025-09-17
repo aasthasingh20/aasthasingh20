@@ -7,29 +7,12 @@ HIII I'M AASTHA✨
 
 💻 Passionate about  Full Stack Development, Project Management, and AI
 
-⚙️ Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js), JavaScript, HTML/CSS
-
-🛡️ Strong foundation in Cybersecurity concepts and Data Structures & Algorithms
-
-📊 Developed a Resume Parser tool with NLP, showcasing practical use of AI in recruitment
-
-🔧 Experienced in building full-stack apps, collaborative platforms, and real-time systems
-
-🌐 Learning Figma to HTML conversion, UI/UX design, and frontend performance optimization
-
-🚀 Actively seeking opportunities in Full Stack Development, Frontend Engineering, or AI Research
-
+⚙️ Proficient in MERN Stack (MongoDB, Express.js, React.js, Node.js), JavaScript, HTML/CSS, Typescript
+🔧 Experienced in building full-stack apps with integrated AI , collaborative platforms, and real-time systems
 🤝 Strong team player, self-learner, and passionate about solving real-world problems with tech
 
 📧 aasthabhriguvanshi@gmail.com
-
-
 🌐 https://www.linkedin.com/in/aasthasingh2314
-
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aasthasingh2314) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Aastha Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aasthabhriguvanshi@gmail.com) 
 
